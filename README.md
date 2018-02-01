@@ -3,7 +3,7 @@ OpenGL issue
 
 Leanred basis of OpenGL, created mini solar system.
 
-For sperehs used meches.
+For spheres used meches.
 
 Lightning - simple Phonge model.
 
